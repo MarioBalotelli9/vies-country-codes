@@ -6,6 +6,10 @@ Get updated European Union country codes in the ISO 3166-1 alpha-2 standard, rec
 
 * Clone this repository
 
+```shell
+https://github.com/MarioBalotelli9/vies-country-codes.git
+```
+
 * Create a virtual environment and activate it
 
 ```shell
